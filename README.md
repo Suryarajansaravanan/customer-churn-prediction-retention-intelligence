@@ -349,25 +349,7 @@ Transforms analytical insights into business actions.
 
 ---
 
-# Dashboard Preview
 
-## Executive Summary
-
-![Executive Summary](screenshots/executive_summary.png)
-
-## Churn Analysis
-
-![Churn Analysis](screenshots/churn_analysis.png)
-
-## Risk Segmentation
-
-![Risk Segmentation](screenshots/risk_segmentation.png)
-
-## Retention Intelligence
-
-![Retention Intelligence](screenshots/retention_intelligence.png)
-
----
 
 # Business Impact
 
