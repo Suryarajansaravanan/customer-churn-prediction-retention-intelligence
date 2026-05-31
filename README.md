@@ -403,27 +403,6 @@ Potential future improvements include:
 
 ---
 
-# Repository Structure
-
-customer-churn-prediction-retention-intelligence/
-
-├── data/
-
-├── notebooks/
-
-├── powerbi/
-
-├── screenshots/
-
-├── src/
-
-├── requirements.txt
-
-├── README.md
-
-└── LICENSE
-
----
 
 # Author
 
